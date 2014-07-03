@@ -1,0 +1,9 @@
+Building Teddycoin
+
+See doc/readme-qt.rst for instructions on building Teddycoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Teddycoin.
+
+See doc/build-*.txt for instructions on building Teddycoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Teddycoin.
